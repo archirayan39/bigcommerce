@@ -1,0 +1,621 @@
+[22-Dec-2016 03:29:30 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:29:30 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:29:31 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('categories', Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:30:03 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:30:03 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:30:04 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('categories', Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:30:19 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:30:19 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:30:20 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('categories', Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:30:53 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:30:53 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:30:54 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/produc...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('products/catego...', Array)
+#4 {main}
+  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:32:34 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:32:34 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:32:34 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/produc...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('products/catego...', Array)
+#4 {main}
+  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:32:55 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:32:55 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:32:55 America/Denver] PHP Warning:  Missing argument 1 for WC_API_Client_Resource_Custom::setup(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 58 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php on line 30
+[22-Dec-2016 03:32:55 America/Denver] PHP Notice:  Undefined variable: endpoint in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php on line 32
+[22-Dec-2016 03:32:55 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', '/products/categ...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('products/catego...', Array)
+#4 {main}
+  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:33:14 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:33:14 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:33:14 America/Denver] PHP Warning:  Missing argument 2 for WC_API_Client_Resource_Custom::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 62 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php on line 80
+[22-Dec-2016 03:33:14 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php on line 86
+[22-Dec-2016 03:33:14 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', NULL)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post(Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:34:26 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:34:26 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:34:27 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('', Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:35:09 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:35:09 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:35:09 America/Denver] PHP Notice:  Undefined variable: cats in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 67
+[22-Dec-2016 03:35:09 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 67
+[22-Dec-2016 03:35:09 America/Denver] PHP Fatal error:  Call to undefined function arry() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 70
+[22-Dec-2016 03:35:29 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:35:29 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:35:29 America/Denver] PHP Notice:  Undefined variable: cats in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 67
+[22-Dec-2016 03:35:29 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 67
+[22-Dec-2016 03:35:29 America/Denver] PHP Fatal error:  Call to undefined function arry() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 70
+[22-Dec-2016 03:35:55 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:35:56 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:35:56 America/Denver] PHP Notice:  Undefined variable: prod_avail in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 88
+[22-Dec-2016 03:35:56 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 88
+[22-Dec-2016 03:35:56 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 130
+[22-Dec-2016 03:36:00 America/Denver] PHP Notice:  Undefined variable: prod_avail in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 88
+[22-Dec-2016 03:36:00 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 88
+[22-Dec-2016 03:36:00 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 130
+[22-Dec-2016 03:36:02 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: Error getting remote image . Error: A valid URL was not provided.. [woocommerce_api_invalid_remote_product_image]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-products.php(85): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(136): WC_API_Client_Resource_Products->create(Array)
+#4 { in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:37:09 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:37:09 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:37:10 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('', Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:39:51 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:39:51 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:39:52 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', '/products/categ...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('products/catego...', Array)
+#4 {main}
+  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 03:40:21 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 5
+[22-Dec-2016 03:40:21 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 15
+[22-Dec-2016 03:40:22 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(62): WC_API_Client_Resource_Custom->post('', Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 04:03:04 America/Denver] PHP Notice:  Undefined variable: path in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 33
+[22-Dec-2016 04:03:04 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 43
+[22-Dec-2016 04:03:04 America/Denver] PHP Fatal error:  Uncaught exception 'WC_API_Client_HTTP_Exception' with message 'Error: No route was found matching the URL and request method [woocommerce_api_no_route]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php:210
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client.php(289): WC_API_Client_HTTP_Request->dispatch()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/abstract-wc-api-client-resource.php(122): WC_API_Client->make_api_call('POST', 'products/catego...', Array)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/resources/class-wc-api-client-resource-custom.php(89): WC_API_Client_Resource->do_request()
+#3 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(90): WC_API_Client_Resource_Custom->post('', Array)
+#4 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 210
+[22-Dec-2016 04:07:03 America/Denver] PHP Fatal error:  Uncaught exception 'Automattic\WooCommerce\HttpClient\HttpClientException' with message 'Error: No product_category data specified to create product_category [woocommerce_api_missing_product_category_data]' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:324
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(343): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Array)
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(379): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php(56): Automattic\WooCommerce\HttpClient\HttpClient->request('products/catego. in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 324
+[22-Dec-2016 04:12:45 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 04:12:45 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 04:12:45 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 29
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 24
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 24
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 30
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 30
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 32
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 32
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 33
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 33
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 35
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 36
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 36
+[22-Dec-2016 04:17:16 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 39
+[22-Dec-2016 04:17:17 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 48
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 24
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 24
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 30
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 30
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 32
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 32
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 33
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 33
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 35
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: request_csv_details in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 36
+[22-Dec-2016 04:17:34 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 36
+[22-Dec-2016 04:17:35 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 48
+[22-Dec-2016 04:18:28 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 27
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 52
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined index:  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 52
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 58
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined index:  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 58
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 60
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined index:  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 60
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined index:  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 63
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined variable: r in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 64
+[22-Dec-2016 04:18:29 America/Denver] PHP Notice:  Undefined index:  in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 64
+[22-Dec-2016 04:18:30 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 76
+[22-Dec-2016 04:20:03 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 26
+[22-Dec-2016 04:20:05 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 65
+[22-Dec-2016 04:20:07 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 81
+[22-Dec-2016 04:22:08 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 26
+[22-Dec-2016 04:22:08 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 65
+[22-Dec-2016 04:22:10 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 81
+[22-Dec-2016 04:23:01 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 26
+[22-Dec-2016 04:23:02 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 65
+[22-Dec-2016 04:23:03 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 81
+[22-Dec-2016 04:30:44 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 26
+[22-Dec-2016 04:30:45 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:32:36 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 26
+[22-Dec-2016 04:32:37 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:37:10 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 26
+[22-Dec-2016 04:37:12 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:37:58 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 26
+[22-Dec-2016 04:37:59 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:38:52 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:38:53 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 57
+[22-Dec-2016 04:39:14 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:39:15 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 57
+[22-Dec-2016 04:40:34 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:40:34 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 57
+[22-Dec-2016 04:40:54 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:40:55 America/Denver] PHP Fatal error:  Call to undefined function prinr_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 57
+[22-Dec-2016 04:41:25 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:41:59 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:42:21 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:42:22 America/Denver] PHP Notice:  Undefined variable: prod_avail in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 57
+[22-Dec-2016 04:44:14 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:44:16 America/Denver] PHP Notice:  Undefined variable: prod_avail in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 57
+[22-Dec-2016 04:45:01 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:45:02 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:45:09 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 105
+[22-Dec-2016 04:45:52 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:45:53 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:45:58 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 105
+[22-Dec-2016 04:58:58 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 04:58:59 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:58:59 America/Denver] PHP Notice:  Undefined index: id in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 72
+[22-Dec-2016 04:59:00 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:59:01 America/Denver] PHP Notice:  Undefined index: id in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 72
+[22-Dec-2016 04:59:01 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:59:02 America/Denver] PHP Notice:  Undefined index: id in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 72
+[22-Dec-2016 04:59:03 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:59:04 America/Denver] PHP Notice:  Undefined index: id in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 72
+[22-Dec-2016 04:59:08 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:59:08 America/Denver] PHP Notice:  Undefined index: id in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 72
+[22-Dec-2016 04:59:09 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 61
+[22-Dec-2016 04:59:10 America/Denver] PHP Notice:  Undefined index: id in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 72
+[22-Dec-2016 04:59:10 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 83
+[22-Dec-2016 05:00:16 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:00:16 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 65
+[22-Dec-2016 05:00:17 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 89
+[22-Dec-2016 05:01:50 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:01:51 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 65
+[22-Dec-2016 05:01:59 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 93
+[22-Dec-2016 05:03:36 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:03:37 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 62
+[22-Dec-2016 05:04:25 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:04:25 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 63
+[22-Dec-2016 05:05:13 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:05:14 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 66
+[22-Dec-2016 05:06:15 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:06:57 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:07:07 America/Denver] PHP Notice:  Undefined index: id in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 77
+[22-Dec-2016 05:07:11 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 123
+[22-Dec-2016 05:07:12 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 138
+[22-Dec-2016 05:08:10 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:08:20 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 123
+[22-Dec-2016 05:08:21 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 138
+[22-Dec-2016 05:09:37 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:09:50 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 124
+[22-Dec-2016 05:09:51 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 139
+[22-Dec-2016 05:10:45 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:10:56 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 128
+[22-Dec-2016 05:10:57 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 143
+[22-Dec-2016 05:12:07 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:12:11 America/Denver] PHP Notice:  Array to string conversion in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 101
+[22-Dec-2016 05:14:18 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:14:23 America/Denver] PHP Notice:  Array to string conversion in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 101
+[22-Dec-2016 05:15:10 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:15:57 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:16:57 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:18:07 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:18:43 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:18:43 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 69
+[22-Dec-2016 05:18:44 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 87
+[22-Dec-2016 05:18:45 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 69
+[22-Dec-2016 05:18:46 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 87
+[22-Dec-2016 05:18:46 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 69
+[22-Dec-2016 05:18:47 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 87
+[22-Dec-2016 05:18:48 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 69
+[22-Dec-2016 05:18:48 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 87
+[22-Dec-2016 05:18:49 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 69
+[22-Dec-2016 05:18:50 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 87
+[22-Dec-2016 05:18:51 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 69
+[22-Dec-2016 05:18:51 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 87
+[22-Dec-2016 05:20:37 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:23:09 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:24:09 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:24:54 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:26:21 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:27:09 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:28:02 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:28:48 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:28:49 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 80
+[22-Dec-2016 05:29:36 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:29:37 America/Denver] PHP Notice:  Undefined index: product_categories in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 82
+[22-Dec-2016 05:31:15 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:32:01 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:32:23 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:32:54 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:33:07 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 123
+[22-Dec-2016 05:33:08 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 138
+[22-Dec-2016 05:37:09 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:37:19 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 124
+[22-Dec-2016 05:37:21 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 139
+[22-Dec-2016 05:37:33 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:37:48 America/Denver] PHP Notice:  Undefined variable: catids in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 124
+[22-Dec-2016 05:37:49 America/Denver] PHP Catchable fatal error:  Object of class Automattic\WooCommerce\HttpClient\Request could not be converted to string in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 139
+[22-Dec-2016 05:40:41 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:49:25 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 05:57:57 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 22
+[22-Dec-2016 06:01:35 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 06:01:36 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 77
+[22-Dec-2016 06:22:58 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 06:22:59 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 176
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 180
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 0 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 2 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 3 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 4 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 5 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 6 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 7 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 8 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 9 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 10 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 11 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 12 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 13 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 14 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 15 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 16 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 17 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 18 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 19 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 20 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 21 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 22 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 23 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 24 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 25 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 26 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 27 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 28 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 29 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 30 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 31 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 32 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 33 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 34 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 35 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 36 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 37 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 38 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 39 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 40 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 41 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 42 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 43 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 44 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 45 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 46 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 47 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 48 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 49 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 50 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 51 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 52 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 53 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 54 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 55 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 56 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 57 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 58 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Notice:  Undefined offset: 59 in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:23:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 184
+[22-Dec-2016 06:28:24 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 06:28:25 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 06:28:36 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 188
+[22-Dec-2016 06:28:36 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 192
+[22-Dec-2016 06:30:54 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 06:30:58 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 06:31:08 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 06:31:08 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 06:33:38 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 06:33:39 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 06:33:49 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 06:33:49 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 06:35:48 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 06:35:49 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 06:35:59 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 06:35:59 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:33:46 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 22:33:50 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 22:34:06 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 22:34:06 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:35:33 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 22:35:34 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 22:35:49 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 22:35:49 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:36:39 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 22:36:40 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 22:36:55 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 22:36:55 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:37:33 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 22:37:34 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 22:37:48 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 22:37:48 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:38:49 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 22:38:49 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 22:39:05 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 22:39:05 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:39:33 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 22:39:34 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 22:39:48 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 22:39:48 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:40:37 America/Denver] PHP Notice:  curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woocommerce_api/lib/woocommerce-api/class-wc-api-client-http-request.php on line 70
+[22-Dec-2016 22:40:38 America/Denver] PHP Notice:  Undefined property: stdClass::$phone in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 80
+[22-Dec-2016 22:40:52 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 189
+[22-Dec-2016 22:40:52 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/big_comm_script.php on line 193
+[22-Dec-2016 22:46:19 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 10 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:46:19 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:46:19 America/Denver] PHP Fatal error:  Uncaught exception 'Automattic\WooCommerce\HttpClient\HttpClientException' with message 'Invalid JSON returned' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:340
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(379): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php(56): Automattic\WooCommerce\HttpClient\HttpClient->request('products?sku=AB...', 'POST', NULL)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(10): Automattic\WooCommerce\Client->post('products?sku=AB...')
+#3 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 340
+[22-Dec-2016 22:46:22 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 10 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:46:22 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:46:22 America/Denver] PHP Fatal error:  Uncaught exception 'Automattic\WooCommerce\HttpClient\HttpClientException' with message 'Invalid JSON returned' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:340
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(379): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php(56): Automattic\WooCommerce\HttpClient\HttpClient->request('products?sku=AB...', 'POST', NULL)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(10): Automattic\WooCommerce\Client->post('products?sku=AB...')
+#3 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 340
+[22-Dec-2016 22:46:35 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 10 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:46:35 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:46:35 America/Denver] PHP Fatal error:  Uncaught exception 'Automattic\WooCommerce\HttpClient\HttpClientException' with message 'Invalid JSON returned' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:340
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(379): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php(56): Automattic\WooCommerce\HttpClient\HttpClient->request('product?sku=ABC...', 'POST', NULL)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(10): Automattic\WooCommerce\Client->post('product?sku=ABC...')
+#3 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 340
+[22-Dec-2016 22:46:57 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 10 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:46:57 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:46:57 America/Denver] PHP Fatal error:  Uncaught exception 'Automattic\WooCommerce\HttpClient\HttpClientException' with message 'Invalid JSON returned' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:340
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(379): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php(56): Automattic\WooCommerce\HttpClient\HttpClient->request('product?filter[...', 'POST', NULL)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(10): Automattic\WooCommerce\Client->post('product?filter[...')
+#3 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 340
+[22-Dec-2016 22:47:18 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 10 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:47:18 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:47:18 America/Denver] PHP Fatal error:  Uncaught exception 'Automattic\WooCommerce\HttpClient\HttpClientException' with message 'Invalid JSON returned' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:340
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(379): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php(56): Automattic\WooCommerce\HttpClient\HttpClient->request('product?filter[...', 'POST', NULL)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(10): Automattic\WooCommerce\Client->post('product?filter[...')
+#3 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 340
+[22-Dec-2016 22:47:41 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 10 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:47:41 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:47:41 America/Denver] PHP Fatal error:  Uncaught exception 'Automattic\WooCommerce\HttpClient\HttpClientException' with message 'Invalid JSON returned' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:340
+Stack trace:
+#0 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(379): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#1 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php(56): Automattic\WooCommerce\HttpClient\HttpClient->request('products?filter...', 'POST', NULL)
+#2 /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php(10): Automattic\WooCommerce\Client->post('products?filter...')
+#3 {main}
+  thrown in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 340
+[22-Dec-2016 22:48:06 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 11 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:48:06 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:48:06 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:48:22 America/Denver] PHP Warning:  Missing argument 2 for Automattic\WooCommerce\Client::post(), called in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 11 and defined in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 54
+[22-Dec-2016 22:48:22 America/Denver] PHP Notice:  Undefined variable: data in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/wc-api-php-master/vendor/automattic/woocommerce/src/WooCommerce/Client.php on line 56
+[22-Dec-2016 22:48:22 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:48:37 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:49:00 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:50:17 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:50:37 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:51:04 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:51:57 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:52:11 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:53:08 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:56:46 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 22:57:01 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:01:32 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/SLR/inprogress/Woo-Add-Product-Sample.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:08:44 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 119
+[22-Dec-2016 23:08:46 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 119
+[22-Dec-2016 23:13:34 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:14:09 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:18:53 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:21:47 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:22:09 America/Denver] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 134
+[22-Dec-2016 23:22:09 America/Denver] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 138
+[22-Dec-2016 23:24:16 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:28:03 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:34:16 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:36:58 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:37:29 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:38:02 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[22-Dec-2016 23:39:51 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:05:43 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:05:54 America/Denver] PHP Notice:  Undefined variable: attributes in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 138
+[23-Dec-2016 00:07:44 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:08:35 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:09:14 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:09:49 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:10:18 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:10:44 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:11:36 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:11:39 America/Denver] PHP Notice:  Undefined variable: attributes in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 116
+[23-Dec-2016 00:11:59 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:12:37 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:13:32 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:16:07 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:18:28 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:41:16 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:42:50 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:44:20 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:56:31 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 00:59:00 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/woo_api_test.php on line 20
+[23-Dec-2016 01:04:41 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/SLR.php on line 19
+[23-Dec-2016 01:06:43 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/SLR.php on line 19
+[23-Dec-2016 01:06:44 America/Denver] PHP Notice:  Undefined variable: woo_prod_avail in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/SLR.php on line 178
+[23-Dec-2016 01:07:54 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/SLR.php on line 19
+[23-Dec-2016 02:11:07 America/Denver] PHP Warning:  fopen(cesbsys/WOO/ProdIn/GALR/inprogress/GALR_ICR.csv): failed to open stream: No such file or directory in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 16
+[23-Dec-2016 02:12:07 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 19
+[23-Dec-2016 02:14:31 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:28:39 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting catch (T_CATCH) in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 115
+[23-Dec-2016 02:28:42 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting catch (T_CATCH) in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 115
+[23-Dec-2016 02:30:53 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:30:54 America/Denver] PHP Fatal error:  Call to undefined function pritn_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 100
+[23-Dec-2016 02:31:54 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:31:55 America/Denver] PHP Fatal error:  Call to undefined function pritn_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 101
+[23-Dec-2016 02:32:17 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:32:18 America/Denver] PHP Fatal error:  Call to undefined function pritn_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 101
+[23-Dec-2016 02:34:01 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:34:02 America/Denver] PHP Fatal error:  Call to undefined function pritn_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 103
+[23-Dec-2016 02:35:40 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:35:41 America/Denver] PHP Fatal error:  Call to undefined function pritn_r() in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 108
+[23-Dec-2016 02:37:08 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:38:53 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:40:02 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:40:41 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/GALR.php on line 20
+[23-Dec-2016 02:53:40 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/SQP.php on line 20
+[23-Dec-2016 02:55:38 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/SQP.php on line 20
+[23-Dec-2016 03:04:50 America/Denver] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home3/easydat5/public_html/easydata1/bigcommerce_c_ESB/SQP.php on line 20
